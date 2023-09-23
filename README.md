@@ -3,13 +3,11 @@
 A new Flutter project.
 
 # Score App
-
- It allows users to [mention the core functionality or features of your app].
-
+![haha](https://github.com/HeyIamMarasiniAmrit/score-app.dart/assets/101445427/b141c255-4f6f-4142-b8c1-5df16d053fb9)
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
+
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
