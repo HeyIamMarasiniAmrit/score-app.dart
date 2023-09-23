@@ -2,10 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
 # Score App
 
-Score App is a [brief description of your app]. It allows users to [mention the core functionality or features of your app].
+ It allows users to [mention the core functionality or features of your app].
 
 ## Table of Contents
 
